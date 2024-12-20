@@ -1,0 +1,6 @@
+path: C:/Users/lenovo/OneDrive/Desktop/blade_damage_dataset
+train: train/images
+val: val/images
+test: test/images
+nc: 1  # number of classes
+names: ["damage"]
